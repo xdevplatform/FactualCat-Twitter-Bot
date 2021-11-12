@@ -40,7 +40,7 @@ After setting up your Cloud Function, you can use the [Cloud Scheduler](https://
 
 * For general questions related to the API and features, please use the v2 section of our [developer community forums](https://twittercommunity.com/c/twitter-api/twitter-api-v2/65).
 
-* If there's an bug or issue with the sample code itself, please create a [new issue](https://github.com/twitterdev/Twitter-API-v2-sample-code/issues) here on GitHub.
+* If there's an bug or issue with the sample code itself, please create a [new issue](https://github.com/twitterdev/FactualCat-Twitter-Bot) here on GitHub.
 
 * If you have questions about the future, check out these resources:
   * [Guide to the Future of the Twitter API](https://developer.twitter.com/en/products/twitter-api/early-access/guide)
