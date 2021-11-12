@@ -1,4 +1,4 @@
-# Factual Cat Bot
+# FactualCat Twitter Bot
 
 [@FactualCat](https://twitter.com/FactualCat) is a Twitter Bot that Tweets cat facts daily. Built using the [manage Tweets ](https://developer.twitter.com/en/docs/twitter-api/tweets/manage-tweets/introduction)endpoint in the Twitter API v2 and deployed with [Cloud Functions](https://cloud.google.com/functions) and [Cloud Scheduler](https://cloud.google.com/scheduler). This bot parses cat facts from an API that provides cat facts, [catfact.ninja](https://catfact.ninja/), and Tweets them out.
 
