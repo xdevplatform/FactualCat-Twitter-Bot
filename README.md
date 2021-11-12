@@ -4,8 +4,8 @@
 
 There are two versions of this code sample in this repository:
 
-- [cat_fact_bot.py](https://github.com/twitterdev/factual_cat_bot/blob/main/cat_fact_bot.py) - The Python code sample for testing locally
-- [gcp_function.py](https://github.com/twitterdev/factual_cat_bot/blob/main/gcp_function.py) - The version of the code currently deployed to [Cloud Functions](https://cloud.google.com/functions). 
+- [cat_fact_bot.py](https://github.com/twitterdev/FactualCat-Twitter-Bot/blob/main/cat_fact_bot.py) - The Python code sample for testing locally
+- [gcp_function.py](https://github.com/twitterdev/FactualCat-Twitter-Bot/blob/main/gcp_function.py) - The version of the code currently deployed to [Cloud Functions](https://cloud.google.com/functions). 
 
 ## Steps to running this code sample
 
@@ -26,7 +26,7 @@ To set up a Cloud Function, you can follow a similar process outlined in the [Py
 To avoid directly adding your keys and tokens to your Cloud Function, you can create [environment variables](https://cloud.google.com/functions/docs/configuring/env-var#cloud-console-ui_2). For example, under the “Runtime, build, connections and security settings“ header, you can set up environment variables for your Consumer Key, Consumer Secret, Access Token, and Access Token Secret. You can obtain these credentials in the developer portal, located in the “Keys and Tokens” page of the App inside your Project. 
 
 After configuring your Cloud Function, you will see a page to set your runtime, the programming language, and the version you are using. This example uses Python 3.9 as the runtime environment. 
-You can edit the `main.py` file that appears in the code editor to match the code found in [gcp_function.py](https://github.com/twitterdev/factual_cat_bot/blob/main/gcp_function.py). You also do the same for your [requirements.txt](https://github.com/twitterdev/factual_cat_bot/blob/main/requirements.txt) file.
+You can edit the `main.py` file that appears in the code editor to match the code found in [gcp_function.py](https://github.com/twitterdev/FactualCat-Twitter-Bot/blob/main/gcp_function.py). You also do the same for your [requirements.txt](https://github.com/twitterdev/FactualCat-Twitter-Bot/blob/main/requirements.txt) file.
 
 ### Step 4: Scheduling your Tweets with Cloud Scheduler 
 
