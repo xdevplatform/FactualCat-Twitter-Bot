@@ -11,7 +11,7 @@ There are two versions of this code sample in this repository:
 
 ### Step 1: Create your bot account
 
-First, you will need to create a [new account](http://twitter.com/signup) for your bot 
+First, you will need to create a [new account](http://twitter.com/signup) for your bot.
 
 ### Step 2: Authenticate on behalf of your bot 
 
